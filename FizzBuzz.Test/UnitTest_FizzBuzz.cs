@@ -21,7 +21,7 @@ namespace FizzBuzz.Test
         [TestMethod]
         public void Can_Find_FizzBuzz()
         {
-            Assert.AreEqual("Fizz Buzz", FizzBuzz.Solve(15));
+            Assert.AreEqual("FizzBuzz", FizzBuzz.Solve(15));
         }
 
         [TestMethod]
@@ -33,7 +33,7 @@ namespace FizzBuzz.Test
         [TestMethod]
         public void Can_Handle_Zero_As_Input()
         {
-            Assert.AreEqual("Fizz Buzz", FizzBuzz.Solve(0));
+            Assert.AreEqual("FizzBuzz", FizzBuzz.Solve(0));
         }
 
         [TestMethod]
@@ -43,7 +43,7 @@ namespace FizzBuzz.Test
             Assert.AreEqual(100, data.Count);
             Assert.AreEqual("Fizz", data[3 - 1]);
             Assert.AreEqual("Buzz", data[5 - 1]);
-            Assert.AreEqual("Fizz Buzz", data[15 - 1]);
+            Assert.AreEqual("FizzBuzz", data[15 - 1]);
             Assert.AreEqual("1", data[1 - 1]);            
         }
     }

@@ -10,16 +10,11 @@ namespace FizzBuzz
     {
         public static string Solve(int number)
         {
-            //if(number < 1)
-            //{
-            //    return null;
-            //}
-
             bool fizz = number % 3 == 0;
             bool buzz = number % 5 == 0;
 
             if (fizz && buzz)
-                return "Fizz Buzz";
+                return "FizzBuzz";
             else if (fizz)
                 return "Fizz";
             else if (buzz)
