@@ -1,5 +1,0 @@
-C:\tfs3\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.dll
-C:\tfs3\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
-C:\tfs3\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
-C:\tfs3\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.dll
-C:\tfs3\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
