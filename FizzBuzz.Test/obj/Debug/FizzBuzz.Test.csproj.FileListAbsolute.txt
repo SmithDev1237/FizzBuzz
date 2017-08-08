@@ -1,0 +1,9 @@
+C:\tfs3\FizzBuzz\FizzBuzz.Test\bin\Debug\FizzBuzz.Test.dll
+C:\tfs3\FizzBuzz\FizzBuzz.Test\bin\Debug\FizzBuzz.Test.pdb
+C:\tfs3\FizzBuzz\FizzBuzz.Test\bin\Debug\FizzBuzz.dll
+C:\tfs3\FizzBuzz\FizzBuzz.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\tfs3\FizzBuzz\FizzBuzz.Test\bin\Debug\FizzBuzz.pdb
+C:\tfs3\FizzBuzz\FizzBuzz.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\tfs3\FizzBuzz\FizzBuzz.Test\obj\Debug\FizzBuzz.Test.csprojResolveAssemblyReference.cache
+C:\tfs3\FizzBuzz\FizzBuzz.Test\obj\Debug\FizzBuzz.Test.dll
+C:\tfs3\FizzBuzz\FizzBuzz.Test\obj\Debug\FizzBuzz.Test.pdb
